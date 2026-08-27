@@ -1,0 +1,1 @@
+Add profile.jpg, about.jpg, background.jpg and logo.png here. Add gallery photos inside gallery/.
